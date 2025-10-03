@@ -14,72 +14,49 @@ https://www.youtube.com/@atnnewsltd/live
 https://www.youtube.com/@news24livetv/live
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/inds.png" ,Independent TV
 https://www.youtube.com/@IndependentTelevision/live
-#EXTINF:-1 ,Jamuna TV Alt
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/1024px-Jamuna_TV_logo.svg.png" ,Jamuna TV 1
 https://www.youtube.com/@JamunaTVbd/live
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/1024px-Jamuna_TV_logo.svg.png" ,Jamuna TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/1024px-Jamuna_TV_logo.svg.png" ,Jamuna TV 2
 https://www.youtube.com/@jamunatvplus/live
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ekhontv.jpg" ,Ekhon TV
 https://www.youtube.com/@ekhontv/live
-#EXTINF:-1 ,Desh TV
+#EXTINF:-1 tvg logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" ,Desh TV
 https://www.youtube.com/@livedeshtv/live
 #EXTINF:-1 tvg-logo="https://admin.atnbanglaonline.tv/public/storage/upload/conf/edvjMQTG7M8p3zA6Dc4qANoqa8CyNwHomNCfOBTK.png" ,ATN Bangla
 https://www.youtube.com/@ATNBanglanews/live
-#EXTINF:-1 ,Channel I
+#EXTINF:-1 tvg logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel I
 https://www.youtube.com/@ChanneliLive24/live
-#EXTINF:-1 ,NTV
+#EXTINF:-1 tvg logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE-7_3IYo5bP3hi2ksy5uAhhKIId0vgoMUeg&s" ,NTV
 https://www.youtube.com/@NTVDigitalLive/live
-#EXTINF:-1 ,RTV
+#EXTINF:-1 tvg logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" ,RTV
 https://www.youtube.com/@RtvLiveBD/live
 #EXTINF:-1 tvg-logo="https://landportal.org/sites/default/files/2023-05/Aljazeera-logo-English-1024x768.png" ,Al Jazeera
 https://www.youtube.com/@aljazeeraenglish/live
-#EXTINF:-1 ,Bangla Vision
+#EXTINF:-1 tvg logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/8b/Banglavision_logo_slogan.png/revision/latest/scale-to-width-down/380?cb=20230512071336" ,Bangla Vision
 https://www.youtube.com/@BanglaVisionNEWS/live
-#EXTINF:-1 ,Ekushey TV
+#EXTINF:-1 tvg logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" ,Ekushey TV
 https://www.youtube.com/@EkusheyETV/live
-#EXTINF:-1 ,SATV
+#EXTINF:-1 tvg logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzT_YiuxgeRnDCPpramUwZjzbogvLw9W8_4w&s" ,SATV
 https://www.youtube.com/@satvbd/live
-#EXTINF:-1 ,Boishakhi TV
+#EXTINF:-1 tvg logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" ,Boishakhi TV
 https://www.youtube.com/@BoishakhiTvNews/live
-#EXTINF:-1 ,Masranga TV
+#EXTINF:-1 tvg logo="https://mail.maasranga.tv/public/customize/newImage/logo.png" ,Masranga TV
 https://www.youtube.com/@MaasrangaNewsbd/live
-#EXTINF:-1 ,MY TV
+#EXTINF:-1 tvg logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Logo_of_My_TV_%28Bangladesh%29.svg/1200px-Logo_of_My_TV_%28Bangladesh%29.svg.png" ,MY TV
 https://www.youtube.com/@mytvbdNews/live
-#EXTINF:-1 ,Mohona TV
+#EXTINF:-1 tvg logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png" ,Mohona TV
 https://www.youtube.com/@MohonaTvLtd/live
-#EXTINF:-1 ,Asian TV
+#EXTINF:-1 tvg logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsLxhngsCNz4zU0XTgTvBVrHpBwkXseJPQg&s" ,Asian TV
 https://www.youtube.com/@asiantelevisionbd/live
-#EXTINF:-1 ,Deepto TV
-https://www.youtube.com/@DeeptoNews/live
-#EXTINF:-1 ,Nagorik TV
+#EXTINF:-1 tvg logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/216px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" ,Nagorik TV
 https://www.youtube.com/@NagorikTVOfficial/live
-#EXTINF:-1 ,Gaan Bangla
-https://www.youtube.com/@GBLTVNews24/live
-#EXTINF:-1 ,Ananda TV
+#EXTINF:-1 tvg logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Ananda_TV.svg/1200px-Logo_of_Ananda_TV.svg.png" ,Ananda TV
 https://www.youtube.com/@AnandaTV24/live
-#EXTINF:-1 ,Bijoy TV
-https://www.youtube.com/@bijoytvlimited/live
-#EXTINF:-1 ,YT-31
-https://www.youtube.com/@ChannelSNews24/live
-#EXTINF:-1 ,YT-32
+#EXTINF:-1 tvg logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" ,BTV
 https://www.youtube.com/@BangladeshTelevision-BTV/live
-#EXTINF:-1 ,YT-33
-https://www.youtube.com/@DurontoTVBangla/live
-#EXTINF:-1 ,YT-34
-https://www.youtube.com/@GaanBanglaTV/live
-#EXTINF:-1 ,YT-35
+#EXTINF:-1 tvg logo="https://yt3.googleusercontent.com/dHgDy4PRn-aUr3Lp_KVmoPzFwfEtRr13FCTXrvzP3E7VQB_6zgxBAiuOa6iL1d5biv3KSqxfSA=s900-c-k-c0x00ffffff-no-rj" ,GTV
 https://www.youtube.com/@GTVNewsupdate/live
-#EXTINF:-1 ,YT-36
-https://www.youtube.com/@TSportsbd/live
-#EXTINF:-1 ,YT-37
-https://www.youtube.com/@TSportsNews/live
-#EXTINF:-1 ,YT-38
-https://www.youtube.com/@TSportsBangladesh/live
-#EXTINF:-1 ,YT-39
-https://www.youtube.com/@TSportsLiveBangladesh/live
-#EXTINF:-1 ,YT-40
-https://www.youtube.com/@TSportsCricketBD/live
-#EXTINF:-1 ,YT-41
-https://www.youtube.com/@TSportsFootball/live
+
 
 
 
