@@ -8,3 +8,5 @@ Only 2 apps work
    Play Store: https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv&pcampaignid=web_share<br>
    
 **m3u usable link:** https://raw.githubusercontent.com/AHBorno/AHB/refs/heads/main/IPTV.m3u 
+
+© Ashiqul Haque Borno
